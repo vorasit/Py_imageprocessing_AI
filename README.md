@@ -1,6 +1,9 @@
 # Py_imageprocessing_AI
+
 use raspberry pi and deverlop python
+
 Python version 3.7.7 
+
              -pip install tensorflow==1.15.0
              -pip install tf-slim
              -pip install numpy
