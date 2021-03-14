@@ -21,4 +21,5 @@ Python version 3.7.7
 
 
 https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf1_detection_zoo.md?fbclid=IwAR3WruewtQ_e-u_g30owf14fHoYLjujDptSc7Jp9FZ1pYvo9h0ys5k7RZ7o 
+
 เราจะเลือก ssd_mobilenet_v2_quantized_coco 
